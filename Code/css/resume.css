@@ -31,6 +31,11 @@ h1 {
 h2 {
   font-size: 3.5rem; }
 
+.educationPad{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
@@ -104,10 +109,28 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: black !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: gray !important;}
+
+.text-name{
+  color: gray;
+}
+
+
+
+.Skills-padding{
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+.Skills-font{
+  font-family: 'Open Sans', serif;
+  font-style: normal;
+  font-size: 1rem;
+}
+
 
 a {
   color: #BD5D38; }
